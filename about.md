@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, I'm Byeongman.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My major is Computer Science & Engineering.
+I'm interested in AI and trip.
+I'm studying a drone using deep learning.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ssey0921@gmail.com](mailto:email@domain.com)
