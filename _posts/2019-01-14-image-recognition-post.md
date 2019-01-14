@@ -21,9 +21,7 @@ comments: true
 **Detection** 문제에서는, 다른 이미지 인식 대회에서는 'Image Localization'이라고 표현함. 주어진 이미지 안에 어느 특정한 클래스에 해당하는 사물이 어느 위치에 포함되어 있는지 바운딩 박스 형태로 검출하는 모델을 만드는 것을 목표로 한다.
 
 
-<center>
 ![Detection](http://research.sualab.com/assets/images/image-recognition-overview-2/pascal-voc-detection-bbox-example.svg)
-</center>
 
 <center>Detection 문제에서의 바운딩 박스 예시</center>
 
