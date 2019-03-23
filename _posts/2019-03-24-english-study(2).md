@@ -21,26 +21,26 @@ comments: true
 찾는다는 의미의 다양한 표현
 
 1. Find : 발견하는 그 순간(일시적.순간적)
-       I found my keys.
-       I found my pen.
-       I found my cellphine.
+     -   I found my keys.
+     -   I found my pen.
+     -   I found my cellphine.
 2. 뭔가를 찾는과정 : look for
-       I am looking my notes.
-       I am finding my notes (x)
-       I find my notes (x)
-       I am looking for a food restaurant in this area.
-       I am looking for a something to do this weekend.
+     -   I am looking my notes.
+     -   I am finding my notes (x)
+     -   I find my notes (x)
+     -   I am looking for a food restaurant in this area.
+     -   I am looking for a something to do this weekend.
 3. Search : 뒤지다. 수색하다. (공간.장소)
-       I searched everywhere and I still can't find my keys.
-       Did you search your room?
-       Yeah. I searched my room, I searched  my pockets...
-       I've been looking for them for two hours... I can't find them! 
-       Search the internet. 
-       Search the restaurant는 그식당은 뒤져봤다는 뜻.
-       I searched the internet and I found some information about the brand.
-       I searched the information (x) 정보를 뒤지는건 아니니깐
-       I looked for some information online/on the internet.
+     -   I searched everywhere and I still can't find my keys.
+     -   Did you search your room?
+     -   Yeah. I searched my room, I searched  my pockets...
+     -   I've been looking for them for two hours... I can't find them! 
+     -   Search the internet. 
+     -   Search the restaurant는 그식당은 뒤져봤다는 뜻.
+     -   I searched the internet and I found some information about the brand.
+     -   I searched the information (x) 정보를 뒤지는건 아니니깐
+     -   I looked for some information online/on the internet.
 4. Search for 인터넷검색에 특화
-       I searched for some information online.
-       I searched the internet for some information.
-       I searched the internet to find some information.
+     -   I searched for some information online.
+     -   I searched the internet for some information.
+     -   I searched the internet to find some information.
