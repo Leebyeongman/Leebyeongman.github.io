@@ -76,3 +76,8 @@ And just as I was walking over to the bathroom, I heard mother talking to someon
 
 
 언제 어디서 부터 시작해서 막 ~하고나서 이제 막 ~하려고 하는데...이런 일이 벌어졌다.
+
+```
+[liveacademy]: https://www.youtube.com/watch?v=hzQFVAGocHw "Go Live Academy"
+```
+

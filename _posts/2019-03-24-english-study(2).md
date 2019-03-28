@@ -44,3 +44,9 @@ comments: true
      -   I searched for some information online.
      -   I searched the internet for some information.
      -   I searched the internet to find some information.
+
+
+
+```
+[liveacademy]: https://www.youtube.com/watch?v=uXPxXG5NUYo "Go Live Academy"
+```

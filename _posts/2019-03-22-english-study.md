@@ -46,3 +46,12 @@ comments: true
    I was expecting everyone to be(come) on time.
 
    I don't really expect everyone to agree with me.
+
+
+
+```
+[liveacademy]: https://www.youtube.com/watch?v=VQedahDGPJ0&t=215s "Go Live Academy"
+```
+
+
+
