@@ -46,7 +46,4 @@ comments: true
      -   I searched the internet to find some information.
 
 
-
-```
-[liveacademy]: https://www.youtube.com/watch?v=uXPxXG5NUYo "Go Live Academy"
-```
+[liveacademy](https://www.youtube.com/watch?v=uXPxXG5NUYo).
