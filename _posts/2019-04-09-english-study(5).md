@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "라이브 아카데미 - 연습가이드#1
+title: "라이브 아카데미 - 연습가이드 #1"
 tags: [English, study]
 comments: true
 
