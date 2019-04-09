@@ -51,6 +51,8 @@ But after some time, i **got** a lot(much) better.
 
 And now I'**ve become** completely cured. 
 
+<br><br>
+
 He **was**(<u>used to be</u>) the slowest person in our class. 
 
 "used to" 를 쓰면 예전에는.. 이라는 말이 섞이게 된다.
