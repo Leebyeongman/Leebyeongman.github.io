@@ -71,6 +71,7 @@ And just as I was walking over to the bathroom, I heard mother talking to someon
 
 
 3년전에 막 졸업을 하고나서 취업을 하려고 하고 있는데 갑자기 저희 삼촌이 돌아가셨어요. 
+
 3 years ago, I had just graduated from school and just as I was getting ready to get/find a job, my uncle passed away.
 
 
