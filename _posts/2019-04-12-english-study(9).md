@@ -44,9 +44,13 @@ The clerk said that it was the last one.
 
 So, I **could've** just **bought/purchased** it right away. 
 
-근데, 더 좋은게 있는지 한번 확인해보고 싶었어
+근데, 더 좋은게 있**는지 한번 확인해보고 싶었어**
 
 But **I wanted to see if** there was anything/something better. 
+
+- I wanted to see if  이 부분은 그냥 주워서 외우면 된다.
+
+
 
 근데, 더 좋은게 없었어 / 좋은걸 못찾았어
 
