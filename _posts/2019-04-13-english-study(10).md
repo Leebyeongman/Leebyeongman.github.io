@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "라이브 아카데미 - 연습가이드 #5"
+title: "라이브 아카데미 - 연습가이드 #6"
 tags: [English, study]
 comments: true
 
@@ -10,9 +10,7 @@ comments: true
 
 ---
 
-오늘은 연습가이드#6 "must have, might have, couldn't have | 했나보다, 했을 수도 있다, 했을리가 없다" 에 대해서 강의를 들었다.
-
-<br/>
+오늘은 연습가이드#6 "must have, might have, couldn't have 했나보다, 했을 수도 있다, 했을리가 없다" 에 대해서 강의를 들었다.
 
 확실한 것은 아니지만 어떤 하나의 단서를 보고 추정을 하는 것...어떤 확신이 아니라 추정 같은 것을 표현하기 위해서는...
 
