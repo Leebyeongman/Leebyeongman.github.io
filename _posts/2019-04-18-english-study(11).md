@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "라이브 아카데미 - 연습가이드 #6"
+title: "라이브 아카데미 - 연습가이드 #7"
 tags: [English, study]
 comments: true
 
@@ -10,7 +10,7 @@ comments: true
 
 ---
 
-오늘은 연습가이드#6 "must have, might have, couldn't have 했나보다, 했을 수도 있다, 했을리가 없다" 에 대해서 강의를 들었다.
+오늘은 연습가이드#7 "look, look like, almost look as if, it was clear, judging by" 에 대해서 강의를 들었다.
 
 방금 여기 오는길에,
 Just before(now), on my way here, 
